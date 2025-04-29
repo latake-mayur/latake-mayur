@@ -1,27 +1,26 @@
-<h1 align="center">Hi 👋, I'm Mayur Ambegaon</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Mayur Latake</h1>
+<h3 align="center">A passionate full-stack, WordPress & Shopify developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Full-stack+Developer;Tech+Enthusiast+%7C+Problem+Solver;Building+creative+and+impactful+solutions!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=500&lines=Full-stack+Developer+%7C+WordPress+%26+Shopify+Expert;Building+Digital+Experiences+That+Deliver+Impact;Crafting+Web+%26+Mobile+Apps+With+Purpose+%26+Performance" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **web apps and mobile solutions** that solve real-world problems  
-- 🌱 I’m learning **Next.js, Tailwind CSS, and cloud infrastructure**  
-- 👯 I love collaborating on **open-source, SaaS, and full-stack projects**  
-- 💼 Experienced in both frontend and backend development  
-- 📫 Reach me at **latakemayur@gmail.com**  
-- ⚡ Fun fact: I enjoy turning ideas into fully functional digital products  
+🔭 I’m currently building full-stack web and mobile solutions that solve real-world problems  
+🌱 I’m currently learning everything 🤣
+👨‍💻 I work with **WordPress** and **Shopify** to deliver custom, scalable websites and e-commerce solutions    
+⚡ Fun fact: I love to learn new things!
+📫 Reach me at **latakemayur@gmail.com**
 
 ---
 
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,flutter,mongodb,mysql,php,html,css,tailwind,figma,linux,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,flutter,php,mysql,mongodb,html,css,tailwind,wordpress,shopify,figma,vscode,git,github,linux" />
 </p>
 
 ---
@@ -45,16 +44,13 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/mayur-latake-56899723b" target="blank">
+  <a href="https://linkedin.com/in/mayur-latake-56899723b" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn - Mayur Latake" />
   </a>
-  <a href="https://twitter.com/mayur_codes" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter - mayur_codes" />
-  </a>
-  <a href="mailto:latakemayur@gmail.com" target="blank">
+  <a href="mailto:latakemayur@gmail.com" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email - latakemayur@gmail.com" />
   </a>
-  <a href="https://mayurlatake.tech" target="blank">
+  <a href="https://mayurlatake.tech" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=wordpress" alt="Website - mayurlatake.tech" />
   </a>
 </p>
@@ -63,11 +59,11 @@
 
 ### 💡 Notable Projects
 
-- 🚀 **Web-based Task Manager** – A productivity tool to organize personal or team tasks  
-- 📲 **Mobile App for Local Services** – Connecting users with local vendors and service providers  
-- 🛒 **E-commerce UI Kit** – Ready-to-use components for online store platforms  
-- 💬 **Live Chat Widget** – Real-time messaging system for any website or app  
+- 🛠️ **Custom WordPress Solutions** – Bespoke themes and plugins tailored for performance and design  
+- 🛒 **Shopify Storefronts** – Scalable and SEO-optimized e-commerce experiences  
+- 📱 **Mobile App Interfaces** – Built with Flutter for Android and iOS platforms  
+- ⚙️ **SaaS Dashboards & Admin Panels** – Data-driven tools built with React/Next.js
 
 ---
 
-_Thanks for visiting my GitHub profile! 😊_
+_Thanks for visiting my GitHub profile! Let’s build something amazing together 🚀_
