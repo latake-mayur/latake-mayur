@@ -6,9 +6,9 @@
 ### 🧑‍💻 About Me
 
 🔭 I’m currently building full-stack web and mobile solutions that solve real-world problems  
-🌱 I’m currently learning everything 🤣
-👨‍💻 I work with **WordPress** and **Shopify** to deliver custom, scalable websites and e-commerce solutions    
-⚡ Fun fact: I love to learn new things!
+🌱 I’m currently learning everything 🤣  
+👨‍💻 I work with **WordPress** and **Shopify** to deliver custom, scalable websites and e-commerce solutions  
+⚡ Fun fact: I love to learn new things!  
 📫 Reach me at **latakemayur@gmail.com**
 
 ---
@@ -16,7 +16,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,flutter,php,mysql,mongodb,html,css,tailwind,wordpress,shopify,figma,vscode,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,wordpress,shopify,vscode,git,github,linux,figma" />
 </p>
 
 ---
