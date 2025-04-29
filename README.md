@@ -9,11 +9,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently building full-stack web and mobile solutions that solve real-world problems  
-- 🌱 I’m constantly learning and exploring new tools & technologies  
-- 💼 I work with **WordPress** and **Shopify** to deliver custom, scalable websites and e-commerce solutions  
-- ⚡ Fun fact: I love learning new things and optimizing workflows  
-- 📫 Reach me at: **latakemayur@gmail.com**
+🔭 I’m currently building full-stack web and mobile solutions that solve real-world problems  
+🌱 I’m currently learning everything 🤣
+👨‍💻 I work with **WordPress** and **Shopify** to deliver custom, scalable websites and e-commerce solutions    
+⚡ Fun fact: I love to learn new things!
+📫 Reach me at **latakemayur@gmail.com**
 
 ---
 
