@@ -61,8 +61,6 @@
 
 - 🛠️ **Custom WordPress Solutions** – Bespoke themes and plugins tailored for performance and design  
 - 🛒 **Shopify Storefronts** – Scalable and SEO-optimized e-commerce experiences  
-- 📱 **Mobile App Interfaces** – Built with Flutter for Android and iOS platforms  
-- ⚙️ **SaaS Dashboards & Admin Panels** – Data-driven tools built with React/Next.js
 
 ---
 
