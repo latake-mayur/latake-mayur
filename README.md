@@ -9,7 +9,7 @@
 🌱 I’m currently learning everything 🤣  
 👨‍💻 I work with **WordPress** and **Shopify** to deliver custom, scalable websites and e-commerce solutions  
 ⚡ Fun fact: I love to learn new things!  
-📫 Reach me at **latakemayur@gmail.com**
+📫 Reach me at **developer@mayurlatake.tech**
 
 ---
 
