@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayur Latake</h1>
-<h3 align="center">A passionate Full-Stack, WordPress & Shopify Developer from Indiia</h3>
+<h3 align="center">A passionate Full-Stack, WordPress & Shopify Developer from India</h3>
 
 ---
 
