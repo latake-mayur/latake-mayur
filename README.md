@@ -37,7 +37,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect With Me -
 
 <p align="left">
   <a href="https://linkedin.com/in/mayur-latake-56899723b" target="_blank">
