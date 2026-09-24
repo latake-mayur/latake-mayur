@@ -3,7 +3,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 🧑‍💻 About Me -
 
 🔭 I’m currently building full-stack web solutions that solve real-world problems  
 🌱 I’m currently learning everything 🤣  
